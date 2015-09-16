@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 諸佛要集經
+#+DATE: 2015-08-30 20:21:27.948430
+#+PROPERTY: JUAN 0
