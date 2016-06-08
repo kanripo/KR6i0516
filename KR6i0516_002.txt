@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 810
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0516_T_000-0756b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0516_T_002-0763a> 
 #+PROPERTY: JUAN 2
@@ -591,7 +591,7 @@
 
 時天¶
 王佛告眾菩薩：「諸族姓子！皆共觀斯精進之¶
-業，而致超踰殊特之義，諸餘菩薩億百千劫，¶
+業，而致超踰殊持之義，諸餘菩薩億百千劫，¶
 勤行積德乃逮此定。今者文殊，一彈指頃輙¶
 悉具之。」
 
